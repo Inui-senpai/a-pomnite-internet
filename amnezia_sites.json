@@ -1,0 +1,134 @@
+[
+    {
+        "hostname": "104.18.37.127",
+        "ip": ""
+    },
+    {
+        "hostname": "108.156.91.119",
+        "ip": ""
+    },
+    {
+        "hostname": "172.64.148.197",
+        "ip": ""
+    },
+    {
+        "hostname": "172.64.150.129",
+        "ip": ""
+    },
+    {
+        "hostname": "210.140.139.152",
+        "ip": ""
+    },
+    {
+        "hostname": "210.140.139.158",
+        "ip": ""
+    },
+    {
+        "hostname": "94.139.32.3",
+        "ip": ""
+    },
+    {
+        "hostname": "bookstackapp.com",
+        "ip": "88.99.102.202"
+    },
+    {
+        "hostname": "deepl.com",
+        "ip": "104.18.36.122"
+    },
+    {
+        "hostname": "deviantart.com",
+        "ip": "108.156.22.88"
+    },
+    {
+        "hostname": "discord.com",
+        "ip": "162.159.128.233"
+    },
+    {
+        "hostname": "discord.gg",
+        "ip": "162.159.135.234"
+    },
+    {
+        "hostname": "discord.media",
+        "ip": "162.159.137.234"
+    },
+    {
+        "hostname": "discordapp.com",
+        "ip": "162.159.129.233"
+    },
+    {
+        "hostname": "discordstatus.com",
+        "ip": "65.9.46.92"
+    },
+    {
+        "hostname": "images-ext-1.discordapp.net",
+        "ip": "162.159.134.232"
+    },
+    {
+        "hostname": "joyreactor.cc",
+        "ip": "51.68.155.228"
+    },
+    {
+        "hostname": "mobian.org",
+        "ip": "195.201.242.170"
+    },
+    {
+        "hostname": "newassets.hcaptcha.com",
+        "ip": "104.19.229.21"
+    },
+    {
+        "hostname": "paratype.com",
+        "ip": "5.161.35.137"
+    },
+    {
+        "hostname": "pbs.twimg.com",
+        "ip": "199.232.172.159"
+    },
+    {
+        "hostname": "pixiv.net",
+        "ip": "210.140.139.161"
+    },
+    {
+        "hostname": "pximg.net",
+        "ip": "210.140.139.130"
+    },
+    {
+        "hostname": "reactor.cc",
+        "ip": "193.70.94.47"
+    },
+    {
+        "hostname": "sideload.betterrepack.com",
+        "ip": "192.95.36.140"
+    },
+    {
+        "hostname": "spotify.com",
+        "ip": "35.186.224.24"
+    },
+    {
+        "hostname": "static.wikia.nocookie.net",
+        "ip": "172.66.2.166"
+    },
+    {
+        "hostname": "t.co",
+        "ip": "162.159.140.229"
+    },
+    {
+        "hostname": "twitter.com",
+        "ip": "172.66.0.227"
+    },
+    {
+        "hostname": "twttr.com",
+        "ip": "104.244.42.1"
+    },
+    {
+        "hostname": "www.deviantart.com",
+        "ip": "108.156.22.21"
+    },
+    {
+        "hostname": "www.pixiv.net",
+        "ip": "104.18.42.239"
+    },
+    {
+        "hostname": "x.com",
+        "ip": "172.66.0.227"
+    }
+]
