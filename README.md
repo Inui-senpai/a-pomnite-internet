@@ -31,7 +31,7 @@
 
 - itch *(.io и .zone)*
 - joyreactor.cc, reactor.cc
-- memepedia.ru
+- memepedia.ru *(у их редакторов язык без костей, не удивлюсь, если их реально заблокировали)*
 - pixiv.net *(их медиа-сервер не блокируется)*
 - vndb.org
 </details>
@@ -49,13 +49,15 @@
 - entergram.co.jp
 - ffsb.ru
 - flathub.org
+- githubusercontent.com *(github.com не блокируется)*
+- kiminozo.life
 - mobian.org
 - neverness.gg
 - ntegame.com
 - orangefox *(.tech и .download)*
 - pawchive.st
 - phpbb.com
-- userstorage.mega.co.nz *(что интересно, mega.nz не блокируется)*
+- userstorage.mega.co.nz *(mega.nz не блокируется)*
 </details>
 
 <details>
