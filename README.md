@@ -49,7 +49,7 @@
 - entergram.co.jp
 - ffsb.ru
 - flathub.org
-- githubusercontent.com *(github.com не блокируется)*
+- githubusercontent.com *(github.com не блокируется; возможно, заблокировали намеренно, чтобы всякие наглые юзеры не качали себе Амнезии, Хаппы и Клэши 🙃)*
 - kiminozo.life
 - mobian.org
 - neverness.gg
@@ -57,6 +57,8 @@
 - orangefox *(.tech и .download)*
 - pawchive.st
 - phpbb.com
+- pushsquare.com
+- steamgriddb.com
 - userstorage.mega.co.nz *(mega.nz не блокируется)*
 </details>
 
