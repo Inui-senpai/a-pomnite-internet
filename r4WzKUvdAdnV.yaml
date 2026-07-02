@@ -1,7 +1,6 @@
 prepend:
   - 'PROCESS-NAME,Discord,Cloudflare'
   - 'PROCESS-NAME,discord,Cloudflare'
-  - 'DOMAIN-SUFFIX,google.com,DIRECT'
   - 'DOMAIN-SUFFIX,adobe.com,Cloudflare'
   - 'DOMAIN-SUFFIX,adoptium.net,Cloudflare'
   - 'DOMAIN-SUFFIX,bepis.moe,Cloudflare'
@@ -17,6 +16,7 @@ prepend:
   - 'DOMAIN-SUFFIX,flathub.org,Cloudflare'
   - 'DOMAIN-KEYWORD,game8,Cloudflare'
   - 'DOMAIN-SUFFIX,githubusercontent.com,Cloudflare'
+  - 'DOMAIN-SUFFIX,interactivemap.app,Cloudflare'
   - 'DOMAIN-KEYWORD,itch,Cloudflare'
   - 'DOMAIN-SUFFIX,joyreactor.cc,Cloudflare'
   - 'DOMAIN-SUFFIX,kiminozo.life,Cloudflare'
@@ -30,6 +30,7 @@ prepend:
   - 'DOMAIN-SUFFIX,pawchive.st,Cloudflare'
   - 'DOMAIN-SUFFIX,phpbb.com,Cloudflare'
   - 'DOMAIN-SUFFIX,pixiv.net,Cloudflare'
+  - 'DOMAIN,play.google.com,Cloudflare'
   - 'DOMAIN-SUFFIX,pushsquare.com,Cloudflare'
   - 'DOMAIN-SUFFIX,reactor.cc,Cloudflare'
   - 'DOMAIN-SUFFIX,steamgriddb.com,Cloudflare'
@@ -38,5 +39,6 @@ prepend:
   - 'DOMAIN-SUFFIX,wetransfer.com,Cloudflare'
   - 'DOMAIN-SUFFIX,we.tl,Cloudflare'
   - 'DOMAIN-SUFFIX,wierk.net,Cloudflare'
+  - 'DOMAIN-SUFFIX,google.com,DIRECT'
 append: []
 delete: []

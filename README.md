@@ -33,6 +33,7 @@
 - joyreactor.cc, reactor.cc
 - memepedia.ru *(у их редакторов язык без костей, не удивлюсь, если их реально заблокировали)*
 - pixiv.net *(их медиа-сервер не блокируется)*
+- play.google.com *(Play Маркет не открывается только с ПК, на телефонах он как работал, так и работает)*
 - vndb.org
 </details>
 
@@ -50,6 +51,7 @@
 - ffsb.ru
 - flathub.org
 - githubusercontent.com *(github.com не блокируется; возможно, заблокировали намеренно, чтобы всякие наглые юзеры не качали себе Амнезии, Хаппы и Клэши 🙃)*
+- interactivemap.app
 - kiminozo.life
 - mobian.org
 - neverness.gg
