@@ -31,6 +31,8 @@ prepend:
   - 'DOMAIN-SUFFIX,phpbb.com,Cloudflare'
   - 'DOMAIN-SUFFIX,pixiv.net,Cloudflare'
   - 'DOMAIN,play.google.com,Cloudflare'
+  - 'DOMAIN-SUFFIX,postmarketos.org,Cloudflare'
+  - 'DOMAIN-KEYWORD,protondb,Cloudflare'
   - 'DOMAIN-SUFFIX,pushsquare.com,Cloudflare'
   - 'DOMAIN-SUFFIX,reactor.cc,Cloudflare'
   - 'DOMAIN-SUFFIX,steamgriddb.com,Cloudflare'
