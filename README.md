@@ -32,9 +32,13 @@
 - itch *(.io и .zone)*
 - joyreactor.cc, reactor.cc
 - memepedia.ru *(у их редакторов язык без костей, не удивлюсь, если их реально заблокировали)*
+- pb.wtf ⚠️
 - pixiv.net *(их медиа-сервер не блокируется)*
 - play.google.com *(Play Маркет не открывается только с ПК, на телефонах он как работал, так и работает)*
+- rutracker.org, rutracker.cc ⚠️
 - vndb.org
+
+⚠️ – отсутствуют в перечне правил `torrent` в «ультимативном конфиге»
 </details>
 
 <details>
@@ -44,16 +48,17 @@
 - bepis.moe
 - betterrepack.com
 - bookstackapp.com
+- catgirl.cloud
 - cryptii.com, wierk.net
 - cyberduck.io, duck.sh, mountainduck.io
 - dawn.wine
 - entergram.co.jp
-- ffsb.ru
 - flathub.org
 - githubusercontent.com *(github.com не блокируется; возможно, заблокировали намеренно, чтобы всякие наглые юзеры не качали себе Амнезии, Хаппы и Клэши 🙃)*
 - interactivemap.app
 - kiminozo.life
 - mobian.org
+- mycdn.ink *(медиа-сервер plati.market)*
 - neverness.gg
 - ntegame.com
 - orangefox *(.tech и .download)*
@@ -64,6 +69,7 @@
 - pushsquare.com
 - steamgriddb.com
 - userstorage.mega.co.nz *(mega.nz не блокируется)*
+- xbox.com *(microsoft.com без прокси открывается, а домен их «дочки» – почему-то нет)*
 </details>
 
 <details>
