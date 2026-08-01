@@ -31,6 +31,7 @@
 
 - itch *(.io и .zone)*
 - joyreactor.cc, reactor.cc
+- knowyourmeme.com, kym-cdn.com
 - memepedia.ru *(у их редакторов язык без костей, не удивлюсь, если их реально заблокировали)*
 - pb.wtf ⚠️
 - pixiv.net *(их медиа-сервер не блокируется)*
