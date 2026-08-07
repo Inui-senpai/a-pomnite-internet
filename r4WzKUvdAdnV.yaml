@@ -15,7 +15,7 @@ prepend:
   - 'DOMAIN-SUFFIX,entergram.co.jp,Cloudflare'
   - 'DOMAIN-SUFFIX,flathub.org,Cloudflare'
   - 'DOMAIN-KEYWORD,game8,Cloudflare'
-  - 'DOMAIN-SUFFIX,githubusercontent.com,Cloudflare'
+  - 'DOMAIN-SUFFIX,grok.com,Cloudflare'
   - 'DOMAIN-SUFFIX,interactivemap.app,Cloudflare'
   - 'DOMAIN-KEYWORD,itch,Cloudflare'
   - 'DOMAIN-SUFFIX,joyreactor.cc,Cloudflare'
@@ -47,6 +47,7 @@ prepend:
   - 'DOMAIN-SUFFIX,wetransfer.com,Cloudflare'
   - 'DOMAIN-SUFFIX,we.tl,Cloudflare'
   - 'DOMAIN-SUFFIX,wierk.net,Cloudflare'
+  - 'DOMAIN-SUFFIX,x.ai,Cloudflare'
   - 'DOMAIN-SUFFIX,xbox.com,Cloudflare'
   - 'DOMAIN-SUFFIX,google.com,DIRECT'
 append: []

@@ -22,6 +22,7 @@
 - adobe.com
 - deepl.com
 - game8 *(.co и .jp)*
+- grok.com, x.ai
 - ko-fi.com
 - wetransfer.com, we.tl
 </details>
@@ -55,7 +56,6 @@
 - dawn.wine
 - entergram.co.jp
 - flathub.org
-- githubusercontent.com *(github.com не блокируется; возможно, заблокировали намеренно, чтобы всякие наглые юзеры не качали себе Амнезии, Хаппы и Клэши 🙃)*
 - interactivemap.app
 - kiminozo.life
 - mobian.org
