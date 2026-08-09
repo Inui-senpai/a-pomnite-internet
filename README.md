@@ -24,6 +24,7 @@
 - game8 *(.co и .jp)*
 - grok.com, x.ai
 - ko-fi.com
+- ubisoft.com, ubi.com *(нужны для «халявы», недоступной в РФ)*
 - wetransfer.com, we.tl
 </details>
 
@@ -56,6 +57,7 @@
 - dawn.wine
 - entergram.co.jp
 - flathub.org
+- gofile.io
 - interactivemap.app
 - kiminozo.life
 - mobian.org
