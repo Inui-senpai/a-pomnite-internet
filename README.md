@@ -51,6 +51,7 @@
 - bepis.moe
 - betterrepack.com
 - bookstackapp.com
+- brew.sh
 - catgirl.cloud
 - cryptii.com, wierk.net
 - cyberduck.io, duck.sh, mountainduck.io
