@@ -51,6 +51,7 @@ prepend:
   - 'DOMAIN-SUFFIX,wetransfer.com,Cloudflare'
   - 'DOMAIN-SUFFIX,we.tl,Cloudflare'
   - 'DOMAIN-SUFFIX,wierk.net,Cloudflare'
+  - 'DOMAIN-SUFFIX,wikia.nocookie.net,Cloudflare'
   - 'DOMAIN-SUFFIX,x.ai,Cloudflare'
   - 'DOMAIN-SUFFIX,xbox.com,Cloudflare'
   - 'DOMAIN-SUFFIX,google.com,DIRECT'

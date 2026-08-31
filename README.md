@@ -73,6 +73,7 @@
 - pushsquare.com
 - steamgriddb.com
 - userstorage.mega.co.nz *(mega.nz не блокируется)*
+- wikia.nocookie.net *(static. и script.; fandom.com не блокируется)*
 - xbox.com *(microsoft.com без прокси открывается, а домен их «дочки» – почему-то нет)*
 </details>
 
