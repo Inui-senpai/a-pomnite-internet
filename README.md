@@ -31,6 +31,7 @@
 <details>
     <summary>Заблокировано с НАШЕЙ стороны</summary>
 
+- donmai.us
 - itch *(.io и .zone)*
 - joyreactor.cc, reactor.cc
 - knowyourmeme.com, kym-cdn.com
@@ -48,6 +49,7 @@
     <summary>Попали под горячую руку («ловушка 16 КБ»)</summary>
 
 - adoptium.net
+- b-cdn.net *(сервер обновлений, используемый Revo Uninstaller Pro)*
 - bepis.moe
 - betterrepack.com
 - bookstackapp.com
