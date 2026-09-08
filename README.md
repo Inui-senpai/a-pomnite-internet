@@ -20,6 +20,7 @@
     <summary>Заблокировано с ИХ стороны</summary>
 
 - adobe.com
+- broadcom.com
 - deepl.com
 - game8 *(.co и .jp)*
 - grok.com, x.ai

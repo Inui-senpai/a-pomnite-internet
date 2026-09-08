@@ -8,6 +8,7 @@ prepend:
   - 'DOMAIN-SUFFIX,betterrepack.com,Cloudflare'
   - 'DOMAIN-SUFFIX,bookstackapp.com,Cloudflare'
   - 'DOMAIN-SUFFIX,brew.sh,Cloudflare'
+  - 'DOMAIN-SUFFIX,broadcom.com,Cloudflare'
   - 'DOMAIN-SUFFIX,catgirl.cloud,Cloudflare'
   - 'DOMAIN-SUFFIX,cryptii.com,Cloudflare'
   - 'DOMAIN-SUFFIX,cyberduck.io,Cloudflare'
