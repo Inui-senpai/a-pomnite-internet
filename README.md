@@ -17,6 +17,13 @@
 </details>
 
 <details>
+    <summary>Прочие приложения</summary>
+
+- KKManager.exe *(без прокси не может проверить наличие обновлений)*
+
+</details>
+
+<details>
     <summary>Заблокировано с ИХ стороны</summary>
 
 - adobe.com
@@ -41,6 +48,7 @@
 - pixiv.net *(их медиа-сервер не блокируется)*
 - play.google.com *(Play Маркет не открывается только с ПК, на телефонах он как работал, так и работает)*
 - rutracker.org, rutracker.cc ⚠️
+- ryuugames.com
 - vndb.org
 
 ⚠️ – отсутствуют в перечне правил `torrent` в «ультимативном конфиге»

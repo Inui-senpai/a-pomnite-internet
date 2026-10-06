@@ -1,6 +1,7 @@
 prepend:
   - 'PROCESS-NAME,Discord,Cloudflare'
   - 'PROCESS-NAME,discord,Cloudflare'
+  - 'PROCESS-NAME,KKManager.exe,Cloudflare'
   - 'DOMAIN-SUFFIX,adobe.com,Cloudflare'
   - 'DOMAIN-SUFFIX,adoptium.net,Cloudflare'
   - 'DOMAIN-SUFFIX,b-cdn.net,Cloudflare'
@@ -46,6 +47,7 @@ prepend:
   - 'DOMAIN-SUFFIX,reactor.cc,Cloudflare'
   - 'DOMAIN-SUFFIX,rutracker.cc,Cloudflare'
   - 'DOMAIN-SUFFIX,rutracker.org,Cloudflare'
+  - 'DOMAIN-SUFFIX,ryuugames.com,Cloudflare'
   - 'DOMAIN-SUFFIX,steamgriddb.com,Cloudflare'
   - 'DOMAIN-SUFFIX,ubi.com,Cloudflare'
   - 'DOMAIN-SUFFIX,ubisoft.com,Cloudflare'
