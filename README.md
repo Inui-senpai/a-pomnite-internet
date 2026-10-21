@@ -20,19 +20,18 @@
     <summary>Прочие приложения</summary>
 
 - KKManager.exe *(без прокси не может проверить наличие обновлений)*
-
 </details>
 
 <details>
     <summary>Заблокировано с ИХ стороны</summary>
 
-- adobe.com
+- adobe.com *(частичный блок)*
 - broadcom.com
 - deepl.com
 - game8 *(.co и .jp)*
 - grok.com, x.ai
 - ko-fi.com
-- ubisoft.com, ubi.com *(нужны для «халявы», недоступной в РФ)*
+- ubisoft.com, ubi.com *(частичный блок; нужны для «халявы», недоступной в РФ)*
 - wetransfer.com, we.tl
 </details>
 
@@ -65,6 +64,7 @@
 - catgirl.cloud
 - cryptii.com, wierk.net
 - cyberduck.io, duck.sh, mountainduck.io
+- fandom.com
 - dawn.wine
 - entergram.co.jp
 - flathub.org
@@ -80,6 +80,7 @@
 - postmarketos.org
 - protondb *(.com и head.protondb.pages.dev)*
 - pushsquare.com
+- reverso.net
 - steamgriddb.com
 - userstorage.mega.co.nz *(mega.nz не блокируется)*
 - wikia.nocookie.net *(static. и script.; fandom.com не блокируется)*
@@ -89,10 +90,9 @@
 <details>
     <summary>Исключения</summary>
 
-- google.com
-- gstatic.com
-
-*(эти домены __не нужны__ для ускорения YouTube, но были зачем-то добавлены автором «ультимативного конфига»)*
+- 4pda.to *(после блокировки .ru-домена и последующего переезда на .to дальнейшие попытки блокировки основного сайта и форума **не предпринимались**)*
+- google.com *(**не нужен** для ускорения YouTube)*
+- gstatic.com *(**не нужен** для ускорения YouTube)*
 </details>
 
 ## «И чё с этим делать?»

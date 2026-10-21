@@ -18,6 +18,7 @@ prepend:
   - 'DOMAIN-SUFFIX,donmai.us,Cloudflare'
   - 'DOMAIN-SUFFIX,duck.sh,Cloudflare'
   - 'DOMAIN-SUFFIX,entergram.co.jp,Cloudflare'
+  - 'DOMAIN-SUFFIX,fandom.com,Cloudflare'
   - 'DOMAIN-SUFFIX,flathub.org,Cloudflare'
   - 'DOMAIN-KEYWORD,game8,Cloudflare'
   - 'DOMAIN-SUFFIX,gofile.io,Cloudflare'
@@ -43,6 +44,7 @@ prepend:
   - 'DOMAIN-KEYWORD,protondb,Cloudflare'
   - 'DOMAIN-SUFFIX,pushsquare.com,Cloudflare'
   - 'DOMAIN-SUFFIX,reactor.cc,Cloudflare'
+  - 'DOMAIN-SUFFIX,reverso.net,Cloudflare'
   - 'DOMAIN-SUFFIX,rutracker.cc,Cloudflare'
   - 'DOMAIN-SUFFIX,rutracker.org,Cloudflare'
   - 'DOMAIN-SUFFIX,ryuugames.com,Cloudflare'
@@ -57,6 +59,7 @@ prepend:
   - 'DOMAIN-SUFFIX,wikia.nocookie.net,Cloudflare'
   - 'DOMAIN-SUFFIX,x.ai,Cloudflare'
   - 'DOMAIN-SUFFIX,xbox.com,Cloudflare'
+  - 'DOMAIN-SUFFIX,4pda.to,DIRECT'
   - 'DOMAIN-SUFFIX,google.com,DIRECT'
   - 'DOMAIN-SUFFIX,gstatic.com,DIRECT'
 append: []
