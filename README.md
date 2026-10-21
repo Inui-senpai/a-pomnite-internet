@@ -64,7 +64,7 @@
 - catgirl.cloud
 - cryptii.com, wierk.net
 - cyberduck.io, duck.sh, mountainduck.io
-- fandom.com
+- fandom.com, wikia.nocookie.net *(последнее – static. и script.)*
 - dawn.wine
 - entergram.co.jp
 - flathub.org
@@ -83,7 +83,6 @@
 - reverso.net
 - steamgriddb.com
 - userstorage.mega.co.nz *(mega.nz не блокируется)*
-- wikia.nocookie.net *(static. и script.)*
 - xbox.com *(microsoft.com без прокси открывается, а домен их «дочки» – почему-то нет)*
 </details>
 
