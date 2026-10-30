@@ -70,6 +70,8 @@
 - flathub.org
 - gofile.io
 - interactivemap.app
+- megalodon.jp
+- memepedia *(.ru и .world)*
 - mobian.org
 - mycdn.ink *(медиа-сервер plati.market)*
 - neverness.gg
@@ -89,7 +91,6 @@
 <details>
     <summary>Исключения</summary>
 
-- 4pda.to *(после блокировки .ru-домена и последующего переезда на .to дальнейшие попытки блокировки основного сайта и форума **не предпринимались**)*
 - google.com *(**не нужен** для ускорения YouTube)*
 - gstatic.com *(**не нужен** для ускорения YouTube)*
 </details>

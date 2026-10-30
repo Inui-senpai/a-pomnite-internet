@@ -29,6 +29,8 @@ prepend:
   - 'DOMAIN-SUFFIX,knowyourmeme.com,Cloudflare'
   - 'DOMAIN-SUFFIX,ko-fi.com,Cloudflare'
   - 'DOMAIN-SUFFIX,kym-cdn.com,Cloudflare'
+  - 'DOMAIN-SUFFIX,megalodon.jp,Cloudflare'
+  - 'DOMAIN-KEYWORD,memepedia,Cloudflare'
   - 'DOMAIN-SUFFIX,mobian.org,Cloudflare'
   - 'DOMAIN-SUFFIX,mountainduck.io,Cloudflare'
   - 'DOMAIN-SUFFIX,mycdn.ink,Cloudflare'
@@ -59,7 +61,6 @@ prepend:
   - 'DOMAIN-SUFFIX,wikia.nocookie.net,Cloudflare'
   - 'DOMAIN-SUFFIX,x.ai,Cloudflare'
   - 'DOMAIN-SUFFIX,xbox.com,Cloudflare'
-  - 'DOMAIN-SUFFIX,4pda.to,DIRECT'
   - 'DOMAIN-SUFFIX,google.com,DIRECT'
   - 'DOMAIN-SUFFIX,gstatic.com,DIRECT'
 append: []
